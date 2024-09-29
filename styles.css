@@ -56,7 +56,7 @@ nav ul li a {
 }
 
 .gallery-item {
-    width: calc(50% - 20px); /* Set width to 50% minus margin for two items per row */
+    width: calc(50% - 10px); /* Set width to 50% minus margin for two items per row */
     margin: 10px; /* Space between items */
     text-align: center; /* Center text below images */
 }
